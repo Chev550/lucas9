@@ -1,5 +1,5 @@
 title: 李立
-baseurl: /lucas
+baseurl: /lucas9
 markdown: kramdown
 plugins: [jekyll-paginate]
 paginate: 5
